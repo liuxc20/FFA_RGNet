@@ -1,0 +1,13 @@
+python main_train.py \
+--image_dir /dataset/ \
+--ann_path /dataset/ZJU2_FFA.json \
+--n_gpu 2 \
+--model_name FFA_RGNet \
+--batch_size 8 \
+--epochs 30 \
+--save_dir results/FFA_RGNet \
+--lr 1e-4 \
+--step_size 10 \
+--gamma 0.5 \
+--early_stop 10 \
+--seed 16 \

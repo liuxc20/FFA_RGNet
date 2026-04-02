@@ -1,0 +1,11 @@
+python main_test.py \
+--image_dir /dataset/ \
+--ann_path /dataset/ZJU2_FFA.json \
+--n_gpu 2 \
+--dataset_name zju2 \
+--model_name FFA_RGNet \
+--batch_size 8 \
+--epochs 30 \
+--save_dir results/FFA_RGNet \
+--seed 16 \
+--load results/FFA_RGNet/model_best.pth
