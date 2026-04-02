@@ -1,6 +1,8 @@
 # FFA-RGNet
 We developed an interpretable graph reasoning framework for enhanced diagnosis in fundus fluorescein angiography.
+
 In this diagnostic study using multicenter FFA datasets, the proposed AI model outperformed nine baseline models and human experts at different expertise levels. The model also demonstrated a superior ability to recognize fine-grained semantic entities and learn disease-specific graph reasoning patterns aligned with clinical knowledge, while improving human experts’ diagnostic accuracy when used as an assistive tool.
+
 This is the pytorch implementation for our paper.
 
 ## Requirements
