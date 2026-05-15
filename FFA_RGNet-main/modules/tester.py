@@ -87,7 +87,7 @@ class Tester(BaseTester):
                 phase_logits, location_logits, lesion_logits, diagnosis_logits, confidence, normalized_entropy = self.model(images, mask)
 
 
-                if self.model_name in ["MultiTaskTransformerGNN", "MultiTaskTransformerCatGNN"]:
+                if self.model_name in ["FFA_RGNet"]:
                     phase_ids = phase_logits.argmax(dim=-1)         
                     location_ids = location_logits.argmax(dim=-1)    
                     lesion_scores = torch.sigmoid(lesion_logits)     
