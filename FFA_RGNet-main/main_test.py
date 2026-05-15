@@ -16,15 +16,14 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "5,6"
 
 def parse_agrs():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model_name', type=str, default='MultiTaskTransformer',help='the main model to be used.')
+    parser.add_argument('--model_name', type=str, default='FFA_RGNet',help='the main model to be used.')
 
     # Data input settings
-    parser.add_argument('--image_dir', type=str, default='data/iu_xray/images/', help='the path to the directory containing the data.')
-    parser.add_argument('--ann_path', type=str, default='data/iu_xray/annotation.json', help='the path to the directory containing the data.')
+    parser.add_argument('--image_dir', type=str, default='data/zju2/images/', help='the path to the directory containing the data.')
+    parser.add_argument('--ann_path', type=str, default='data/zju2/annotation.json', help='the path to the directory containing the data.')
 
     # Data loader settings
     parser.add_argument('--dataset_name', type=str, default='zju2', help='the dataset to be used.')
-    parser.add_argument('--image_mode', type=str, default='single', help='single or multi.')
     parser.add_argument('--num_workers', type=int, default=2, help='the number of workers for dataloader.')
     parser.add_argument('--batch_size', type=int, default=16, help='the number of samples for a batch')
 
