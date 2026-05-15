@@ -1,0 +1,1073 @@
+{
+  "test": [
+    {
+      "id": 20,
+      "diagnosis_id": 5,
+      "images": [
+        {
+          "image_id": 1,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 1.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 2,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 2.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 3,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 3.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 4,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 4.jpeg",
+          "phase": 1,
+          "location": 2,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 5,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 5.jpeg",
+          "phase": 1,
+          "location": 3,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 6,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 6.jpeg",
+          "phase": 1,
+          "location": 4,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 7,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 7.jpeg",
+          "phase": 1,
+          "location": 6,
+          "lesion": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 8,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 8.jpeg",
+          "phase": 1,
+          "location": 5,
+          "lesion": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 9,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 9.jpeg",
+          "phase": 1,
+          "location": 1,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 10,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 10.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 11,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 11.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 12,
+          "image_path": "ZJU2/PDR/02809672 OD/02809672 OD 12.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "id": 608,
+      "diagnosis_id": 0,
+      "images": [
+        {
+          "image_id": 1,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD1.jpeg",
+          "phase": 0,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 2,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD2.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 3,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD3.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 4,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD4.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 5,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD5.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 6,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD6.jpeg",
+          "phase": 1,
+          "location": 2,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 7,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD7.jpeg",
+          "phase": 1,
+          "location": 4,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 8,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD8.jpeg",
+          "phase": 1,
+          "location": 5,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 9,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD9.jpeg",
+          "phase": 2,
+          "location": 1,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 10,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD10.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 11,
+          "image_path": "ZJU2/BRVO/10390726OD/10390726OD11.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "id": 654,
+      "diagnosis_id": 3,
+      "images": [
+        {
+          "image_id": 1,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD1.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 2,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD2.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 3,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD3.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 4,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD4.jpeg",
+          "phase": 1,
+          "location": 3,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 5,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD5.jpeg",
+          "phase": 1,
+          "location": 4,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 6,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD6.jpeg",
+          "phase": 1,
+          "location": 5,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 7,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD7.jpeg",
+          "phase": 1,
+          "location": 1,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 8,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD8.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 9,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD9.jpeg",
+          "phase": 2,
+          "location": 4,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 10,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD10.jpeg",
+          "phase": 2,
+          "location": 1,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 11,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD11.jpeg",
+          "phase": 2,
+          "location": 2,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 12,
+          "image_path": "ZJU2/Normal/11243230OD/11243230OD12.jpeg",
+          "phase": 2,
+          "location": 5,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "id": 760,
+      "diagnosis_id": 2,
+      "images": [
+        {
+          "image_id": 2,
+          "image_path": "ZJU2/CSC/11452301OD/11452301OD2.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 3,
+          "image_path": "ZJU2/CSC/11452301OD/11452301OD3.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 4,
+          "image_path": "ZJU2/CSC/11452301OD/11452301OD4.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 5,
+          "image_path": "ZJU2/CSC/11452301OD/11452301OD5.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 6,
+          "image_path": "ZJU2/CSC/11452301OD/11452301OD6.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 7,
+          "image_path": "ZJU2/CSC/11452301OD/11452301OD7.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 8,
+          "image_path": "ZJU2/CSC/11452301OD/11452301OD8.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "id": 908,
+      "diagnosis_id": 4,
+      "images": [
+        {
+          "image_id": 1,
+          "image_path": "ZJU2/NPDR/09575520-5 OS/09575520-5 OS 1.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 2,
+          "image_path": "ZJU2/NPDR/09575520-5 OS/09575520-5 OS 2.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 3,
+          "image_path": "ZJU2/NPDR/09575520-5 OS/09575520-5 OS 3.jpeg",
+          "phase": 1,
+          "location": 1,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 4,
+          "image_path": "ZJU2/NPDR/09575520-5 OS/09575520-5 OS 4.jpeg",
+          "phase": 1,
+          "location": 2,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 5,
+          "image_path": "ZJU2/NPDR/09575520-5 OS/09575520-5 OS 5.jpeg",
+          "phase": 1,
+          "location": 3,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 6,
+          "image_path": "ZJU2/NPDR/09575520-5 OS/09575520-5 OS 6.jpeg",
+          "phase": 1,
+          "location": 4,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 7,
+          "image_path": "ZJU2/NPDR/09575520-5 OS/09575520-5 OS 7.jpeg",
+          "phase": 1,
+          "location": 5,
+          "lesion": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 8,
+          "image_path": "ZJU2/NPDR/09575520-5 OS/09575520-5 OS 8.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 9,
+          "image_path": "ZJU2/NPDR/09575520-5 OS/09575520-5 OS 9.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "id": 1047,
+      "diagnosis_id": 1,
+      "images": [
+        {
+          "image_id": 1,
+          "image_path": "ZJU2/CRVO/10321216OS/10321216OS1.jpeg",
+          "phase": 0,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 2,
+          "image_path": "ZJU2/CRVO/10321216OS/10321216OS2.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 4,
+          "image_path": "ZJU2/CRVO/10321216OS/10321216OS4.jpeg",
+          "phase": 1,
+          "location": 2,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 5,
+          "image_path": "ZJU2/CRVO/10321216OS/10321216OS5.jpeg",
+          "phase": 1,
+          "location": 4,
+          "lesion": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 6,
+          "image_path": "ZJU2/CRVO/10321216OS/10321216OS6.jpeg",
+          "phase": 2,
+          "location": 5,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 7,
+          "image_path": "ZJU2/CRVO/10321216OS/10321216OS7.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 8,
+          "image_path": "ZJU2/CRVO/10321216OS/10321216OS8.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "id": 1502,
+      "diagnosis_id": 6,
+      "images": [
+        {
+          "image_id": 2,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS2.jpeg",
+          "phase": 0,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 3,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS3.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 4,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS4.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 5,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS5.jpeg",
+          "phase": 1,
+          "location": 3,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 6,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS6.jpeg",
+          "phase": 1,
+          "location": 4,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 7,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS7.jpeg",
+          "phase": 1,
+          "location": 1,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 8,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS8.jpeg",
+          "phase": 1,
+          "location": 5,
+          "lesion": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 9,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS9.jpeg",
+          "phase": 1,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 10,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS10.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        },
+        {
+          "image_id": 11,
+          "image_path": "ZJU2/wAMD/3 OS/3 OS11.jpeg",
+          "phase": 2,
+          "location": 0,
+          "lesion": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+          ]
+        }
+      ],
+      "split": "test"
+    }
+  ]
+}
