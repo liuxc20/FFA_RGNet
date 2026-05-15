@@ -21,7 +21,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = '0,6,2'
 
 def parse_agrs():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model_name', type=str, default='MultiTaskTransformer',help='the main model to be used.')
+    parser.add_argument('--model_name', type=str, default='FFA_RGNet',help='the main model to be used.')
 
     # Data input settings
     parser.add_argument('--image_dir', type=str, default='data/zju2/images/', help='the path to the directory containing the data.')
