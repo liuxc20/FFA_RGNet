@@ -1,6 +1,6 @@
 python main_train.py \
---image_dir /dataset/ \
---ann_path /dataset/ZJU2_FFA.json \
+--image_dir /data/ \
+--ann_path /data/ZJU2_FFA.json \
 --n_gpu 2 \
 --model_name FFA_RGNet \
 --batch_size 8 \
