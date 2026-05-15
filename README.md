@@ -15,8 +15,13 @@ We use three datasets in the paper: the Second Affiliated Hospital Zhejiang Univ
 
 Data will be made available for research purposes upon request. 
 
+## Pretrained model
+
+Download from: https://huggingface.co/liuxc20/FFA_RGNet to "results/FFA_RGNet/"
+
 ## Run on ZJU2 dataset
 
 - Run `bash train.sh` to train our model on the ZJU2 dataset.
   
-- Run `bash test.sh` to test our model on the ZJU2 dataset.
+- Run `bash test.sh` to test our model on the ZJU2 dataset. We provided some samples for testing.
+  
